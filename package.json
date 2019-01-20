@@ -1,0 +1,13 @@
+{
+  "id": "moodle",
+  "name": "Moodle",
+  "version": "0.0.1",
+  "description": "Moodle for Franz",
+  "main": "index.js",
+  "author": "Devang Chhajed <geekdevang@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://moodle.spit.ac.in/",
+    "hasNotificationSound": true
+  }
+}
